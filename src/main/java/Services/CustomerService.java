@@ -7,7 +7,7 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 
-public class CustomerService {
+public class CustomerService { // Singleton Pattern prensibine uygun hale çevrildi.
 
     private static CustomerService customerService = null;
 
@@ -60,14 +60,6 @@ public class CustomerService {
                 .filter(customer -> customer.getDateOfReg()
                 .equals(month)).collect(Collectors.toList());
 
-
-
-
-
-        // Faturaları buraya gelecek.
-        // Util class - Singleton.
-        // Solid - D
-        // Akın Kaldıroğlu
     }
 
     public static String getCustomerNameById(int customerId){
