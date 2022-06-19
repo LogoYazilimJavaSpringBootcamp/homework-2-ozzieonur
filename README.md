@@ -1,3 +1,6 @@
+>• Singleton Pattern'i CustomerService yapısında kullanıldı. AbstractFactory pattern'i implemente eden kod AbstractFactory paketinin içinde oluşturuldu.
+
+
 ## Java dünyasındaki frameworkler ve çözdükleri problemler
 
 #### ``• Spring MVC: ``
@@ -85,11 +88,3 @@ Singleton pattern'i, bir sınıfın tek bir örneğini oluşturmak için kullan�
 ### ``5) Prototype: ``
 Prototype pattern'i kendisi üzerinden yaratılacak nesneler için prototip görevi üstlenen bir yapı sunmaktadır. Diğer bir deyişle, sınıflardan nesne yaratırken yeni nesnelerin baştan yaratılmayıp, mevcutlarını örnek kabul ederek yaratılmasını sağlar. Bu pattern sayesinde nesneler, kaynaklar gereksiz yere meşgul edilmeden yaratılırlar.
 
-
-<br>
-<br>
-<br>
-
-
-
->• Singleton Pattern'i CustomerService yapısında kullanıldı. AbstractFactory pattern'i implemente eden kod AbstractFactory paketinin içinde oluşturuldu.
