@@ -1,3 +1,19 @@
+## Java dünyasındaki frameworkler ve çözdükleri problemler
+
+#### ``• Spring MVC: ``
+Spring MVC aslında Spring Framework'ün sağladığı bir modüldür. Model View Controller katmanlı yapısı sayesinde daha kolay bir şekilde Web Projelerimizi geliştirmeye yarar.
+``Model`` katmanında projemizdeki ana nesnelerimizi ve verilerimizi tutarız. ``Controller`` katmanında bu nesneler ve veriler üzerinden işlemler yapıp, ``View`` katmanında son kullanıcıya bunu gösteririz.
+
+#### ``• JSP: ``
+Java Server Pages projemizin önyüz kısmında HTML kodları içerisine Java komutlarını yazmamıza olanak tanıyan bir Java EE kütüphanesidir.
+JSP statik bir web sayfasını backend tarafı ile iletişime geçirerek dinamik hale getirmemizi sağlar. Java Servlet üzerine inşa edilmiştir.
+
+#### ```• Apache Struts: ```
+Aslında Spring MVC modülünün sağladığı kullanıma benzer bir yapısı vardır. Java Servlet API yapısını kullanır ve MVC mimarisini kullanarak web projeleri geliştirmemize olanak sağlar.
+AJAX, REST ve SOAP'ı destekler. Structs Spring MVC'den daha eski bir frameworktür ancak günümüzde her ikisi de kullanılıyor.
+Spring gevşek bağımlı modüllere sahiptir, Structs daha bağımlı modüllerle çalışır. Bu konuda Spring avantajlıdır.
+
+``• Vaadin: `` Vaadin, Java dilini kullanarak performanslı ve hızlı web sayfaları(Önyüz) geliştirmemize yarayan bir frameworktür.Bir çok javascript kütüphanesini entegre edebiliriz. Bu sayede de Javascript ve HTML ile ilgili bir çok detaydan kurtulmamızı sağlar. Ancak istersek yine de JS ve HTML kullanabiliriz.
 ## • Katmanlı mimari nedir?
 
 Katmanlı mimari projelerimizde belli bir standart yakalamak ve o standarta göre projeyi geliştirmemizi sağlayan yapıdır.<br>
