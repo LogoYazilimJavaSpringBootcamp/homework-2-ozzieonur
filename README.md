@@ -16,7 +16,8 @@ Aslında Spring MVC modülünün sağladığı kullanıma benzer bir yapısı va
 AJAX, REST ve SOAP'ı destekler. Structs Spring MVC'den daha eski bir frameworktür ancak günümüzde her ikisi de kullanılıyor.
 Spring gevşek bağımlı modüllere sahiptir, Structs daha bağımlı modüllerle çalışır. Bu konuda Spring avantajlıdır.
 
-``• Vaadin: `` Vaadin, Java dilini kullanarak performanslı ve hızlı web sayfaları(Önyüz) geliştirmemize yarayan bir frameworktür.Bir çok javascript kütüphanesini entegre edebiliriz. Bu sayede de Javascript ve HTML ile ilgili bir çok detaydan kurtulmamızı sağlar. Ancak istersek yine de JS ve HTML kullanabiliriz.
+#### ``• Vaadin: ``
+Vaadin, Java dilini kullanarak performanslı ve hızlı web sayfaları(Önyüz) geliştirmemize yarayan bir frameworktür.Bir çok javascript kütüphanesini entegre edebiliriz. Bu sayede de Javascript ve HTML ile ilgili bir çok detaydan kurtulmamızı sağlar. Ancak istersek yine de JS ve HTML kullanabiliriz.
 ## • Katmanlı mimari nedir?
 
 Katmanlı mimari projelerimizde belli bir standart yakalamak ve o standarta göre projeyi geliştirmemizi sağlayan yapıdır.<br>
