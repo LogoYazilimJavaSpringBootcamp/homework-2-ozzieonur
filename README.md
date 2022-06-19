@@ -28,9 +28,9 @@ Kullanılmayan/referans edilmeyen nesnelerin kapladığı alan bellekte boşa ç
 
 ## • Spring frameworkünün kullandığı design patternlar nelerdir?
 #### Creational Patterns:
-[Factory Method]() <br>
-[Singleton]() <br>
-[Prototype]()<br>
+[Factory Method](https://github.com/LogoYazilimJavaSpringBootcamp/homework-2-ozzieonur#1-factory-method) <br>
+[Singleton](https://github.com/LogoYazilimJavaSpringBootcamp/homework-2-ozzieonur#4-singleton-) <br>
+[Prototype](https://github.com/LogoYazilimJavaSpringBootcamp/homework-2-ozzieonur#5-prototype-)<br>
 
 #### Structural:
 #### ``• Proxy: ``
