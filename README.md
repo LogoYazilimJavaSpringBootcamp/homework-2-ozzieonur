@@ -57,6 +57,8 @@ Kullanılmayan/referans edilmeyen nesnelerin kapladığı alan bellekte boşa ç
 Proxy pattern'i, sıkça kullanılan nesnelerin cache yapısına alınarak her defasında yeniden türetilmesini engellemek amacı ile kullanılmaktadır.
 Spring Framework’ün en çok faydalandığı pattern denilebilir. Scoped bean oluşturmada ve Spring AOP kabiliyetinin sunulmasında bu pattern kullanılmaktadır.
 
+#### Behavioral
+
 #### ``• Template Method: ``
 Template Method pattern'i, üst sınıflarda algoritmaların bir iskeletini oluşturan, alt sınıfların iskeleti değiştirmeden bu algoritmaların belirli adımlarını değiştirmesine izin veren bir yapıdadır.
 Spring’in veri erişim altyapısı bu pattern üzerine kuruldur. JdbcTemplate, HibernateTemplate, JpaTemplate, RestTemplat gibi örneklemeleri mevcuttur.
